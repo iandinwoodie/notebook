@@ -18,7 +18,6 @@ These tips were largely provided by the Leetcode Patterns repo [1]:
   - Stack
 - If requested to solve in-place, then:
   - Swap corresponding values
-  - Store one or more different values in the same pointer
 - If asked for minimum/maximum subarray/subset, then:
   - Dynamic programming
 - If asked for top/least K items, then:
@@ -33,4 +32,3 @@ These tips were largely provided by the Leetcode Patterns repo [1]:
 ## References
 
 1. [seanprashad/leetcode-patterns](https://github.com/SeanPrashad/leetcode-patterns)
-
